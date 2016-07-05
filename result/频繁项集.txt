@@ -1,0 +1,115 @@
+Æµ·±Ïî¼¯£º
+[Dead]    0.5955056179775281
+[3class]    0.49859550561797755
+[male]    0.6362359550561798
+[youth]    0.5393258426966292
+[yesSibsp]    0.34129213483146065
+[noParch]    0.7289325842696629
+[S]    0.7780898876404494
+[Survived]    0.4044943820224719
+[1class]    0.25842696629213485
+[female]    0.3637640449438202
+[noSibsp]    0.6587078651685393
+[yesParch]    0.2710674157303371
+[2class]    0.24297752808988765
+[Dead, 3class]    0.3792134831460674
+[Dead, male]    0.5056179775280899
+[Dead, youth]    0.3258426966292135
+[Dead, noParch]    0.4705056179775281
+[Dead, S]    0.4957865168539326
+[Dead, noSibsp]    0.4157303370786517
+[3class, male]    0.3553370786516854
+[3class, youth]    0.2696629213483146
+[3class, noParch]    0.3707865168539326
+[3class, S]    0.40730337078651685
+[3class, noSibsp]    0.3497191011235955
+[male, youth]    0.3497191011235955
+[male, noParch]    0.5168539325842697
+[male, S]    0.5168539325842697
+[male, noSibsp]    0.4592696629213483
+[youth, noParch]    0.4452247191011236
+[youth, S]    0.42696629213483145
+[youth, Survived]    0.21348314606741572
+[youth, noSibsp]    0.38202247191011235
+[yesSibsp, S]    0.2598314606741573
+[noParch, S]    0.5730337078651685
+[noParch, Survived]    0.25842696629213485
+[noParch, female]    0.21207865168539325
+[noParch, noSibsp]    0.5646067415730337
+[S, Survived]    0.28230337078651685
+[S, female]    0.2612359550561798
+[S, noSibsp]    0.5182584269662921
+[S, yesParch]    0.2050561797752809
+[S, 2class]    0.21910112359550563
+[Survived, female]    0.273876404494382
+[Survived, noSibsp]    0.24297752808988765
+[Dead, 3class, male]    0.30196629213483145
+[Dead, 3class, youth]    0.20926966292134833
+[Dead, 3class, noParch]    0.29213483146067415
+[Dead, 3class, S]    0.32162921348314605
+[Dead, 3class, noSibsp]    0.2654494382022472
+[Dead, male, youth]    0.2851123595505618
+[Dead, male, noParch]    0.4241573033707865
+[Dead, male, S]    0.42134831460674155
+[Dead, male, noSibsp]    0.375
+[Dead, youth, noParch]    0.2851123595505618
+[Dead, youth, S]    0.27247191011235955
+[Dead, youth, noSibsp]    0.24157303370786518
+[Dead, noParch, S]    0.4002808988764045
+[Dead, noParch, noSibsp]    0.3848314606741573
+[Dead, S, noSibsp]    0.34691011235955055
+[3class, male, youth]    0.2050561797752809
+[3class, male, noParch]    0.2949438202247191
+[3class, male, S]    0.300561797752809
+[3class, male, noSibsp]    0.2710674157303371
+[3class, youth, noParch]    0.23735955056179775
+[3class, youth, S]    0.22893258426966293
+[3class, youth, noSibsp]    0.21207865168539325
+[3class, noParch, S]    0.3089887640449438
+[3class, noParch, noSibsp]    0.3160112359550562
+[3class, S, noSibsp]    0.2851123595505618
+[male, youth, noParch]    0.31741573033707865
+[male, youth, S]    0.28230337078651685
+[male, youth, noSibsp]    0.27247191011235955
+[male, noParch, S]    0.4297752808988764
+[male, noParch, noSibsp]    0.42696629213483145
+[male, S, noSibsp]    0.37780898876404495
+[youth, noParch, S]    0.35814606741573035
+[youth, noParch, noSibsp]    0.34831460674157305
+[youth, S, noSibsp]    0.30196629213483145
+[noParch, S, noSibsp]    0.45646067415730335
+[Dead, 3class, male, noParch]    0.2542134831460674
+[Dead, 3class, male, S]    0.25842696629213485
+[Dead, 3class, male, noSibsp]    0.2303370786516854
+[Dead, 3class, noParch, S]    0.25140449438202245
+[Dead, 3class, noParch, noSibsp]    0.25
+[Dead, 3class, S, noSibsp]    0.2247191011235955
+[Dead, male, youth, noParch]    0.25842696629213485
+[Dead, male, youth, S]    0.23735955056179775
+[Dead, male, youth, noSibsp]    0.2205056179775281
+[Dead, male, noParch, S]    0.36235955056179775
+[Dead, male, noParch, noSibsp]    0.3553370786516854
+[Dead, male, S, noSibsp]    0.31741573033707865
+[Dead, youth, noParch, S]    0.24297752808988765
+[Dead, youth, noParch, noSibsp]    0.22893258426966293
+[Dead, youth, S, noSibsp]    0.20224719101123595
+[Dead, noParch, S, noSibsp]    0.32865168539325845
+[3class, male, noParch, S]    0.25280898876404495
+[3class, male, noParch, noSibsp]    0.26264044943820225
+[3class, male, S, noSibsp]    0.23174157303370788
+[3class, youth, noParch, S]    0.20365168539325842
+[3class, youth, noParch, noSibsp]    0.20224719101123595
+[3class, noParch, S, noSibsp]    0.26264044943820225
+[male, youth, noParch, S]    0.2612359550561798
+[male, youth, noParch, noSibsp]    0.2598314606741573
+[male, youth, S, noSibsp]    0.2205056179775281
+[male, noParch, S, noSibsp]    0.3609550561797753
+[youth, noParch, S, noSibsp]    0.2808988764044944
+[Dead, 3class, male, noParch, S]    0.2205056179775281
+[Dead, 3class, male, noParch, noSibsp]    0.22612359550561797
+[Dead, 3class, noParch, S, noSibsp]    0.21348314606741572
+[Dead, male, youth, noParch, S]    0.21910112359550563
+[Dead, male, youth, noParch, noSibsp]    0.21067415730337077
+[Dead, male, noParch, S, noSibsp]    0.3061797752808989
+[3class, male, noParch, S, noSibsp]    0.2247191011235955
+[male, youth, noParch, S, noSibsp]    0.2148876404494382
